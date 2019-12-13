@@ -1,0 +1,6 @@
+D:\2isa\C# Visual Studio 2019\PetitChat\PetitChat\bin\Debug\PetitChat.exe.config
+D:\2isa\C# Visual Studio 2019\PetitChat\PetitChat\bin\Debug\PetitChat.exe
+D:\2isa\C# Visual Studio 2019\PetitChat\PetitChat\bin\Debug\PetitChat.pdb
+D:\2isa\C# Visual Studio 2019\PetitChat\PetitChat\obj\Debug\PetitChat.csprojAssemblyReference.cache
+D:\2isa\C# Visual Studio 2019\PetitChat\PetitChat\obj\Debug\PetitChat.exe
+D:\2isa\C# Visual Studio 2019\PetitChat\PetitChat\obj\Debug\PetitChat.pdb
